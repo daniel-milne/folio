@@ -1,0 +1,4 @@
+[submodule "dm-portfolio/web-deployment"]
+	path = dm-portfolio/web-deployment
+	url = https://github.com/daniel-milne/web-deployment.git
+	branch = main
